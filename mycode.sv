@@ -1,1 +1,4 @@
-xyz
+xy
+z
+
+abs vgmm
